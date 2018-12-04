@@ -47,8 +47,9 @@
 
 ## Intermediate - TBD
 17. Touch actions
+18. Hardware interaction
 
 ## Advanced - TBD
-18. Parallel testing
-19. Hardware interaction
+19. Parallel testing
+20. Performance testing
 	
