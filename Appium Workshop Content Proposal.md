@@ -1,7 +1,7 @@
 # Appium Workshop Content Proposal
 
 
-## Guide
+## Pre-requisites
 1. Installing node (MacOS, Win, Linux) 
 
 > This can be a pre-requirement.
@@ -15,6 +15,9 @@
 	* [php](https://github.com/appium/php-client)
 
 3. Prepare the environment to use the appium client selected
+
+## Newbie
+
 4. Explain what are capabilities
 5. Run the appium server
 6. Write a simple browser test to check a document title on a Android emulator
@@ -41,4 +44,11 @@
 16. Write a test to work with an hybrid app on Android app. 
 	* Change contexts
 	* Find element by Id
+
+## Intermediate - TBD
+17. Touch actions
+
+## Advanced - TBD
+18. Parallel testing
+19. Hardware interaction
 	
